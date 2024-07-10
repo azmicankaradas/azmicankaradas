@@ -1,4 +1,4 @@
-[![MasterHead](https://st4.depositphotos.com/13349494/22970/i/950/depositphotos_229702578-stock-photo-top-view-computer-keyboard-red.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Azmi Can Karadaş</h1>
 <h3 align="center">Junior computer engineer from Turkey</h3>
