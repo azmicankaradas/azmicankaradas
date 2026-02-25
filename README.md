@@ -6,13 +6,6 @@
 </p>
 
 <h3 align="left">🚀 What I'm Up To:</h3>
-<ul>
-  <li>🔭 I’m currently working on a <b>Warehouse Management System</b> ve GTC Endüstriyel için akıllı bir <b>Chatbot</b> entegrasyonu.</li>
-  <li>🌱 I’m currently building an AI-driven web application with <b>Next.js</b>, <b>Supabase</b>, and <b>OpenAI</b>.</li>
-  <li>⚙️ I’m automating my daily workflows and data scraping tasks using <b>n8n</b> and <b>Gemini API</b>.</li>
-  <li>✍️ Teknik deneyimlerimi <b>Medium</b> üzerinden paylaşıyorum.</li>
-</ul>
-
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="mailto:hi@azmicankaradas.me" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="hi@azmicankaradas.me" height="40" width="40" /></a>
