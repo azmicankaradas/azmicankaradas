@@ -5,7 +5,6 @@
   Modern web teknolojileriyle ölçeklenebilir uygulamalar geliştiren ve <b>Indie Development</b> dünyasına meraklı bir <i>Computer Engineer</i>. Karmaşık problemleri zarif <i>clean code</i> çözümlerine dönüştürmeyi seviyor, kurumsal projeler ve <i>AI</i> tabanlı mimariler üzerinde çalışıyorum.
 </p>
 
-<h3 align="left">🚀 What I'm Up To:</h3>
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
 <a href="mailto:hi@azmicankaradas.me" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="hi@azmicankaradas.me" height="40" width="40" /></a>
