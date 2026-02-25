@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Azmi Can Karadaş</h1>
-<h3 align="center">Junior computer engineer from Turkey</h3>
+<h3 align="center">Full Stack Developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
