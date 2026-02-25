@@ -43,9 +43,3 @@
 </p>
 
 <br/>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmicankaradas&show_icons=true&theme=radical&hide_border=true" alt="Azmi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmicankaradas&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
